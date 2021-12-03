@@ -1,0 +1,4 @@
+Hi {name}.
+This connection request is sent by an automated bot.
+No need to accept it.
+Sorry for the inconvenience.
